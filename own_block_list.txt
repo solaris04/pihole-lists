@@ -1,5 +1,6 @@
 # mix of sites to block, warez, proxy, torrents
 
+sextreffencommunity.com
 be-n.com
 bloggersmanual.com
 freewindows10download.com

@@ -315,5 +315,18 @@ SerienStream.sx
 SerienStram.to
 serien.domains
 surfshark.com
-
+aniflix.tv
+ani-db.com
+animestream.in
+anicloud.io
+anime-loads.org
+anime-tube.tv
+anime-shitai.com
+streamworld.co
+ohentai.org
+hentaidude.com
+porcore.com
+anividz.org
+aniclouds.org
+animeheaven.pro
 
